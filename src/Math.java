@@ -1,3 +1,12 @@
+/**
+ Creator: Hamid Majeed
+ 11/11/2017
+ hm2123@email.vccs.edu
+ */
+
+
+
+
 public class Math {
 
     public static void main(String [] args) {
